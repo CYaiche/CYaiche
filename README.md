@@ -4,7 +4,7 @@ Welcome to my GitHub repository! Here's a little about me:
 
 - 🎓 I hold a dual-degree in embedded system programming and machine learning.
 - 🌟 Passionate about technology, music, and innovation, with a focus on signal processing and deep-learning.
-- 🌍 Based in Antibes, France 🇫🇷.
+- 🌍 Based in the Netherlands, NL.
 - 📧 You can connect with me on [LinkedIn](https://www.linkedin.com/in/clara-yaiche/).
 
 ## 🚀 Projects
